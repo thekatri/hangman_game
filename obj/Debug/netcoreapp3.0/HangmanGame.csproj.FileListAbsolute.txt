@@ -1,0 +1,14 @@
+C:\Users\katri\Documents\Projects\HangManGame\bin\Debug\netcoreapp3.0\HangmanGame.exe
+C:\Users\katri\Documents\Projects\HangManGame\bin\Debug\netcoreapp3.0\HangmanGame.deps.json
+C:\Users\katri\Documents\Projects\HangManGame\bin\Debug\netcoreapp3.0\HangmanGame.runtimeconfig.json
+C:\Users\katri\Documents\Projects\HangManGame\bin\Debug\netcoreapp3.0\HangmanGame.runtimeconfig.dev.json
+C:\Users\katri\Documents\Projects\HangManGame\bin\Debug\netcoreapp3.0\HangmanGame.dll
+C:\Users\katri\Documents\Projects\HangManGame\bin\Debug\netcoreapp3.0\HangmanGame.pdb
+C:\Users\katri\Documents\Projects\HangManGame\bin\Debug\netcoreapp3.0\HangmanLibrary.dll
+C:\Users\katri\Documents\Projects\HangManGame\bin\Debug\netcoreapp3.0\HangmanLibrary.pdb
+C:\Users\katri\Documents\Projects\HangManGame\obj\Debug\netcoreapp3.0\HangmanGame.csprojAssemblyReference.cache
+C:\Users\katri\Documents\Projects\HangManGame\obj\Debug\netcoreapp3.0\HangmanGame.AssemblyInfoInputs.cache
+C:\Users\katri\Documents\Projects\HangManGame\obj\Debug\netcoreapp3.0\HangmanGame.AssemblyInfo.cs
+C:\Users\katri\Documents\Projects\HangManGame\obj\Debug\netcoreapp3.0\HangmanGame.csproj.CopyComplete
+C:\Users\katri\Documents\Projects\HangManGame\obj\Debug\netcoreapp3.0\HangmanGame.dll
+C:\Users\katri\Documents\Projects\HangManGame\obj\Debug\netcoreapp3.0\HangmanGame.pdb
